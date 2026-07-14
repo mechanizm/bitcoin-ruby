@@ -1,3 +1,9 @@
+= ARCHIVED LEGACY FORK
+
+WARNING: This fork is no longer maintained. It is preserved for historical
+reference and is read-only. Do not use it for new projects; use it at your own
+risk.
+
 = Bitcoin-ruby {<img src="https://api.travis-ci.org/lian/bitcoin-ruby.svg?branch=master" />}[http://travis-ci.org/lian/bitcoin-ruby] {<img src="http://inch-ci.org/github/lian/bitcoin-ruby.svg?branch=master" alt="Inline docs" />}[http://inch-ci.org/github/lian/bitcoin-ruby] {<img src="https://tip4commit.com/projects/108.svg" alt="tip for next commit" />}[https://tip4commit.com/github/lian/bitcoin-ruby]
 
 This is a ruby library for interacting with the bitcoin protocol/network.
